@@ -16,7 +16,7 @@
             {
                new Order{ID = 6, Product = "Игру"},
                new Order{ID = 7, Product = "Компьютер"},
-               new Order{ID = 3, Product = "Рубашку"} ,
+               new Order{ID = 8, Product = "Рубашку"} ,
                new Order{ID = 5, Product = "Книгу"}
             };
 
